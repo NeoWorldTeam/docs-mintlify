@@ -61,6 +61,13 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
+      "group": "Legal Information",
+      "pages": [
+        "privacy-policy",
+        "terms-of-service"
+      ]
+    },
+    {
       "group": "API Documentation",
       "pages": ["api-reference/authentication"]
     },
